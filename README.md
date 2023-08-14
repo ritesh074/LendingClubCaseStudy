@@ -6,7 +6,7 @@ online interface.
 Like any other lending company, the success of the business is in 
 successfully identifying the risk of lending before approving the loan 
 using certain borrower related parameters that defines his/her behavior.
-Two types of risks are associated with the bank’s decision:
+Two types of risks are associated with the bankâ€™s decision:
 1. If the applicant is likely to repay the loan, then not approving the 
 loan results in a loss of business to the company
 2. If the applicant is not likely to repay the loan, i.e. he/she is likely to 
@@ -14,11 +14,11 @@ default, then approving the loan may lead to a financial loss for the
 company
 
 PROBLEM STATEMENT
-	To identify these risky loan applicants, then such loans can be reduced 
+To identify these risky loan applicants, then such loans can be reduced 
 thereby cutting down the amount of credit loss. Identification of such 
 applicants using EDA is the aim of this case study.
 
-	In other words, the company wants to understand the driving factors (or 
+In other words, the company wants to understand the driving factors (or 
 driver variables) behind loan default, i.e. the variables which are strong 
 indicators of default. The company can utilize this knowledge for its 
 portfolio and risk assessment.
@@ -40,7 +40,7 @@ online interface.
 Like any other lending company, the success of the business is in 
 successfully identifying the risk of lending before approving the loan 
 using certain borrower related parameters that defines his/her behavior.
-Two types of risks are associated with the bank’s decision:
+Two types of risks are associated with the bankâ€™s decision:
 1. If the applicant is likely to repay the loan, then not approving the 
 loan results in a loss of business to the company
 2. If the applicant is not likely to repay the loan, i.e. he/she is likely to 
@@ -63,17 +63,17 @@ portfolio and risk assessment.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-• Following variables are driving factors in loan defaults:
+â€¢ Following variables are driving factors in loan defaults:
 Grade, Interest Rate, Term, Home Ownership, Purpose, Year 
 of approval
-• Grade – Higher the grade better the chance of successful 
+â€¢ Grade â€“ Higher the grade better the chance of successful 
 closure of loans
-• Interest Rate – Loan with higher interest rates are ones 
+â€¢ Interest Rate â€“ Loan with higher interest rates are ones 
 with higher risk
-• Home ownership – Data shows that rented or mortgaged 
+â€¢ Home ownership â€“ Data shows that rented or mortgaged 
 home ownership is directly related to loan defaults
-• Purpose – Small business tends to fail to repay the loans
-• Year of Approval – Lender got aggressive with passing 
+â€¢ Purpose â€“ Small business tends to fail to repay the loans
+â€¢ Year of Approval â€“ Lender got aggressive with passing 
 years and the number of defaults also went up
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
