@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> This company is the largest online loan marketplace, facilitating 
+This company is the largest online loan marketplace, facilitating 
 personal loans, business loans, and financing of medical procedures. 
 Borrowers can easily access lower interest rate loans through a fast 
 online interface.
@@ -33,7 +33,7 @@ portfolio and risk assessment.
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- > This company is the largest online loan marketplace, facilitating 
+This company is the largest online loan marketplace, facilitating 
 personal loans, business loans, and financing of medical procedures. 
 Borrowers can easily access lower interest rate loans through a fast 
 online interface.
@@ -48,34 +48,33 @@ default, then approving the loan may lead to a financial loss for the
 company
 
 PROBLEM STATEMENT
-	To identify these risky loan applicants, then such loans can be reduced 
+To identify these risky loan applicants, then such loans can be reduced 
 thereby cutting down the amount of credit loss. Identification of such 
 applicants using EDA is the aim of this case study.
 
-	In other words, the company wants to understand the driving factors (or 
+In other words, the company wants to understand the driving factors (or 
 driver variables) behind loan default, i.e. the variables which are strong 
 indicators of default. The company can utilize this knowledge for its 
 portfolio and risk assessment.
 
-- sample data in loan.csv dataset is used as reference to do analysis.
+sample data in loan.csv dataset is used as reference to do analysis.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-• Following variables are driving factors in loan defaults:
+1. Following variables are driving factors in loan defaults:
 Grade, Interest Rate, Term, Home Ownership, Purpose, Year 
 of approval
-• Grade – Higher the grade better the chance of successful 
+2. Grade – Higher the grade better the chance of successful 
 closure of loans
-• Interest Rate – Loan with higher interest rates are ones 
+3. Interest Rate – Loan with higher interest rates are ones 
 with higher risk
-• Home ownership – Data shows that rented or mortgaged 
+4. Home ownership – Data shows that rented or mortgaged 
 home ownership is directly related to loan defaults
-• Purpose – Small business tends to fail to repay the loans
-• Year of Approval – Lender got aggressive with passing 
+5. Purpose – Small business tends to fail to repay the loans
+6. Year of Approval – Lender got aggressive with passing 
 years and the number of defaults also went up
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
